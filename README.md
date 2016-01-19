@@ -1,2 +1,2 @@
-# act-extras
-Scripts that we use for managing our local deployment of the NCATS ACT ontology and more. This repository is under construction.
+# NCATS ACT Project
+This project is under construction. It will contain files, issue tracking etc. for the Atlanta Clinical and Translational Science Institute node of the Accrual to Clinical Trials (ACT) network, funded by the NIH.
